@@ -12,3 +12,5 @@ jxxghp/moviepilot:latest
 lscr.io/linuxserver/qbittorrent:latest
 stainless403/mdcx-builtin-gui-base:latest
 jeessy/ddns-go:latest
+whyour/qinglong:latest
+jeessy/ddns-go:latest
