@@ -10,7 +10,4 @@ xhofe/alist:latest
 #docker pull registry.cn-hangzhou.aliyuncs.com/m3-images/{docker名}
 jxxghp/moviepilot:latest
 lscr.io/linuxserver/qbittorrent:latest
-stainless403/mdcx-builtin-gui-base:latest
-jeessy/ddns-go:latest
 whyour/qinglong:latest
-jeessy/ddns-go:latest
