@@ -11,3 +11,4 @@ xhofe/alist:latest
 jxxghp/moviepilot:latest
 lscr.io/linuxserver/qbittorrent:latest
 whyour/qinglong:latest
+amilys/embyserver:latest
