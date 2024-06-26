@@ -1,14 +1,14 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
 #将需要的docker地址添加在下方，然后点Action
 #UNRAID中执行docker login --username=m33jey@vip.qq.com registry.cn-hangzhou.aliyuncs.com
 #密码1234qwer
 #docker pull registry.cn-hangzhou.aliyuncs.com/m3-images/{docker名}
 jxxghp/moviepilot:latest
-lscr.io/linuxserver/qbittorrent:latest
+#lscr.io/linuxserver/qbittorrent:latest
 whyour/qinglong:latest
-amilys/embyserver:latest
+#amilys/embyserver:latest
