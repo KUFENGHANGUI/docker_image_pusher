@@ -9,6 +9,7 @@ nginx
 #密码1234qwer
 #docker pull registry.cn-hangzhou.aliyuncs.com/m3-images/{docker名}
 jxxghp/moviepilot:latest
-#lscr.io/linuxserver/qbittorrent:latest
+lscr.io/linuxserver/qbittorrent:latest
 whyour/qinglong:latest
 #amilys/embyserver:latest
+jlesage/handbrake：latest
