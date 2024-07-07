@@ -8,8 +8,9 @@ nginx
 #UNRAID中执行docker login --username=m33jey@vip.qq.com registry.cn-hangzhou.aliyuncs.com
 #密码1234qwer
 #docker pull registry.cn-hangzhou.aliyuncs.com/m3-images/{docker名}
-jxxghp/moviepilot:latest
-lscr.io/linuxserver/qbittorrent:latest
-whyour/qinglong:latest
+#jxxghp/moviepilot:latest
+#lscr.io/linuxserver/qbittorrent:latest
+#whyour/qinglong:latest
 #amilys/embyserver:latest
-jlesage/handbrake:latest
+#jlesage/handbrake:latest
+vaultwarden/server:latest
