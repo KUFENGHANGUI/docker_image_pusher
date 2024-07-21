@@ -10,10 +10,11 @@ nginx
 #docker pull registry.cn-hangzhou.aliyuncs.com/m3-images/{docker名}
 jxxghp/moviepilot:latest
 lscr.io/linuxserver/qbittorrent:latest
-#whyour/qinglong:latest
+whyour/qinglong:latest
 #amilys/embyserver:latest
 #jlesage/handbrake:latest
-vaultwarden/server:latest
+#vaultwarden/server:latest
 ghcr.io/gethomepage/homepage:latest
 lscr.io/linuxserver/jellyfin:latest
-ghcr.io/advplyr/audiobookshelf:latest
+#ghcr.io/advplyr/audiobookshelf:latest
+lmk123/migpt-server:latest
