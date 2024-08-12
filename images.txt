@@ -13,11 +13,12 @@ lscr.io/linuxserver/qbittorrent:latest
 whyour/qinglong:latest
 jeessy/ddns-go:latest
 #lscr.io/linuxserver/jellyfin:latest
-#stainless403/mdcx-builtin-gui-base:latest
+stainless403/mdcx-builtin-gui-base:latest
+gotson/komga:latest
 #xhofe/alist:latest
 #amilys/embyserver:latest
 #jlesage/handbrake:latest
 #vaultwarden/server:latest
-#ghcr.io/gethomepage/homepage:latest
-#ghcr.io/advplyr/audiobookshelf:latest
+ghcr.io/gethomepage/homepage:latest
+ghcr.io/advplyr/audiobookshelf:latest
 #lmk123/migpt-server:latest
