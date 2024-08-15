@@ -10,8 +10,7 @@ nginx
 #docker pull registry.cn-hangzhou.aliyuncs.com/m3-images/{docker名}
 #vaultwarden/server
 jxxghp/moviepilot:latest
-zycn0910/imaotai:latest
-shuye72/jd-base:gitee
+#zycn0910/imaotai:latest
 #lscr.io/linuxserver/qbittorrent:latest
 #whyour/qinglong:latest
 #jeessy/ddns-go:latest
