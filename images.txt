@@ -11,9 +11,9 @@ nginx
 #vaultwarden/server
 jxxghp/moviepilot:latest
 #zycn0910/imaotai:latest
-#lscr.io/linuxserver/qbittorrent:latest
+lscr.io/linuxserver/qbittorrent:latest
 #whyour/qinglong:latest
-#jeessy/ddns-go:latest
+jeessy/ddns-go:latest
 #lscr.io/linuxserver/jellyfin:latest
 #stainless403/mdcx-builtin-gui-base:latest
 gotson/komga:latest
