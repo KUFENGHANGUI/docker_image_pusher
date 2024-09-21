@@ -18,7 +18,7 @@ jeessy/ddns-go:latest
 #stainless403/mdcx-builtin-gui-base:latest
 gotson/komga:latest
 #xhofe/alist:latest
-#amilys/embyserver:latest
+lovechen/embyserver:latest
 #jlesage/handbrake:latest
 #vaultwarden/server:latest
 ghcr.io/gethomepage/homepage:latest
